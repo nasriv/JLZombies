@@ -2,7 +2,7 @@
 
 ### Introduction
 
-JL Zombies is a 2D Platformer game which utilizes the PyGame package (https://www.pygame.org/news).
+This is a personal project I started working on as an ode to an old friend and some of our college shenanigans. It is a 2D Platformer game (super mario style) which utilizes the PyGame package (https://www.pygame.org/news) to build out the physics and graphics of the game. 
 
 ### Packages
 
@@ -23,10 +23,12 @@ JL Zombies is a 2D Platformer game which utilizes the PyGame package (https://ww
 - [ ] Game music
   - [x] intro and splash music
   - [ ] g.o music
-  - [ ] player sound effects
+  - [ ] sound effects
     - [ ] jump
     - [ ] shoot
     - [ ] loss of health
+    - [ ] pick up item
+    - [ ] death
 
 - [ ] Game Over Screen
   - [ ] Include g.o. screen with option to replay game
