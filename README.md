@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This is a personal project I started working on as an ode to an old friend and some of our college shenanigans. It is a 2D Platformer game (super mario style) which utilizes the PyGame package (https://www.pygame.org/news) to build out the physics and graphics of the game. 
+This is a personal project I started working on as an ode to an old friend and some of our college shenanigans. It is a 2D Platformer game (super mario style) which utilizes the PyGame package (https://www.pygame.org/news) to build out the physics and graphics of the game.
 
 ### Packages
 
@@ -15,10 +15,13 @@ This is a personal project I started working on as an ode to an old friend and s
   - [ ] Define 'zombie class' structure
   - [ ] Random generation of enemy from various parts of screen
   - [ ] Collision marking between enemy and player
-  - [ ] End level boss battle
   - [ ] Platform generation and layout
   - [ ] Player health bar and collision tracking
   - [ ] Player powerups
+  - [ ] Include NPC players
+    - [ ] JS
+    - [ ] LA
+  - [ ] End Boss Fight: The Chaz and Naz
 
 - [ ] Game music
   - [x] intro and splash music
