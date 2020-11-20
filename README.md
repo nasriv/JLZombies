@@ -37,7 +37,7 @@ This is a personal project I started working on as an ode to an old friend and s
   - [ ] Include g.o. screen with option to replay game
 
 - [ ] Game Art
-  - [ ] Beer bottle health bar graphic
+  - [ ] health bar graphic
   - [ ] level graphics (platforms, foreground, background)
   - [ ] Enemy sprite design
   - [ ] Powerup graphics
